@@ -1,0 +1,19 @@
+analyse:
+  - inflation
+  - interest rates
+  - personal savings
+  - personal expenditures
+    - consumer spending
+  - personal income
+  - mortgage amount
+  - consumer confidence
+  - market close
+    - nyse
+    - nasdaq
+    - xjo
+  - employment rate
+  - government balance sheet in markets
+  - gdp
+  - Retail Sales
+  - Real Consumer Spending
+  - Fed Pace of Treasury Purchase Program
